@@ -8,5 +8,10 @@
       "matches": ["https://www.google.com/*", "https://duckduckgo.com/*", "https://www.bing.com/*", "https://www.startpage.com/*"],
       "js": ["remover.js"]
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "extension@justmage.de"
+    }
+  }
 }
