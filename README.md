@@ -1,5 +1,5 @@
 # Installation
-- Visit the Firefox addon page.
+- Visit the Firefox [addon page](https://addons.mozilla.org/en-US/firefox/addon/search-engine-ad-remover/).
 - Search for the name of this addon.
 - Click on the "Install" button to add it to your browser.
 
