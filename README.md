@@ -1,3 +1,6 @@
+# Archive
+This is redundant. A way better all in one solution is uBlock Origin for [Chrome](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/).
+
 # Installation
 - Visit the Firefox [addon page](https://addons.mozilla.org/en-US/firefox/addon/search-engine-ad-remover/).
 - Click on the "Install" button to add it to your browser.
